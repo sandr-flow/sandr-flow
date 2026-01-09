@@ -72,7 +72,19 @@ I bridge the gap between cutting-edge AI and real-world applications — from ra
 
 ---
 
-## 📫 Let's Connect
+## � Open to Opportunities
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-success?style=for-the-badge" alt="Open to Work"/>
+</p>
+
+Considering offers for **full-time** or **project-based** work.
+
+Ready to discuss interesting challenges in AI, LLM integrations, and backend development.
+
+---
+
+## �📫 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alex-salnikov-ld/">
