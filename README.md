@@ -114,7 +114,3 @@ Ready to discuss practical challenges in AI engineering, LLM integrations, RAG s
 </p>
 
 ---
-
-<p align="center">
-  Last updated from public GitHub repositories: 2026-06-03
-</p>
